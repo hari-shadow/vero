@@ -38,4 +38,5 @@ I am currently exploring Java and SQL, and this project is a learning journey fo
 ## Architecture
 
 ### Flow Diagram
-![preview](assets/vero_flowdiagram.png)
+<img src="https://github.com/hari-shadow/vero/assets/vero_flowdiagram.png" alt="Flow of the project" width="300"/>
+
