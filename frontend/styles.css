@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FFF1DB; /* Background color */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0 10px; /* Padding on left and right for smaller screens */
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 90%; /* Scales with screen size but doesn't exceed 90% of the viewport width */
+    max-width: 800px; /* Maximum width for very large screens */
+    margin: 0 auto; /* Center the container */
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+button {
+    background-color: #EF5A6F; /* Button color */
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px; /* Space between button and content */
+    transition: background-color 0.3s ease; /* Smooth color transition */
+}
+
+button:hover {
+    background-color: #d93d53; /* Darker shade on hover */
+}
+
+#statusMessage {
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+/* Icon container styles */
+.icon-container {
+    margin-top: 20px; /* Space between button and icons */
+}
+
+.icon-link {
+    color: #333; /* Icon color */
+    text-decoration: none; /* Remove underline */
+    margin: 0 10px; /* Space between icons */
+}
+
+.icon-link:hover {
+    color: #EF5A6F; /* Change color on hover */
+}
