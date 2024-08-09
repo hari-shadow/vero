@@ -38,4 +38,4 @@ I am currently exploring Java and SQL, and this project is a learning journey fo
 ## Architecture
 
 ### Flow Diagram
-![[assers/Vero_preview.png]]
+![[assets/vero_preview.png]]
