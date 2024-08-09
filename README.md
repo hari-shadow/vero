@@ -4,7 +4,7 @@
 
 **Vero** is a web application designed to help users who feel unsafe by allowing them to capture and save a live stream directly to their Google Drive with a single click. This feature provides a way to create a record of events if users need to provide evidence or protect themselves later. The name **Vero** is derived from Latin, meaning "true," which reflects the app’s aim to offer genuine and reliable evidence.
 
-<img src="https://github.com/hari-shadow/vero/blob/8493fc2558bfb9a60afa0d5c916d89ebd28d9bf7/assets/vero_user_interface.png" alt="Flow of the project" width="600"/>
+<img src="https://github.com/hari-shadow/vero/blob/c33d823959619f75a630e340fd1147bfd461ad99/assets/vero_user_interface.png" alt="Flow of the project" width="600"/>
 
 ## Current Status
 
