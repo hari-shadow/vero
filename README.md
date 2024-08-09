@@ -38,5 +38,5 @@ I am currently exploring Java and SQL, and this project is a learning journey fo
 ## Architecture
 
 ### Flow Diagram
-<img src="https://github.com/hari-shadow/vero/assets/vero_flowdiagram.png" alt="Flow of the project" width="300"/>
+<img src="https://github.com/hari-shadow/vero/blob/2f113108432a8eddb9afa347e5ead28557eac5fd/assets/vero_flowdiagram.png" alt="Flow of the project" width="300"/>
 
